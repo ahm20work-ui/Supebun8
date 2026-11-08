@@ -1,0 +1,1 @@
+- [Product tone](product-tone.md) — Keep the study-planning experience affectionate, encouraging, and nonjudgmental; productivity should support the person, not pressure her.
